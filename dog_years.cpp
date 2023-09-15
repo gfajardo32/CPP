@@ -1,4 +1,6 @@
+//Guido Fajardo
 #include <iostream>
+
 //This version of the program is for dogs older than 2 years old.
 int main() {
   int dog_age = 10;
